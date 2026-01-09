@@ -1,4 +1,4 @@
 # Hruthikdemo
 This is my first repository
 <br>
-Author Hruthik.Karja
+Author Hruthik.Karja(Gowda)
